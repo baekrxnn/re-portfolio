@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../logo.svg';
+// import logo from 'logo.svg';
 import { Image, StyleSheet, Text, View } from 'react-native';
 
 // see https://github.com/necolas/react-native-web
@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <View style={styles.app}>
         <View style={styles.header}>
-          <Image accessibilityLabel="React logo" source={logo} resizeMode="contain" style={styles.logo} />
+          <Image accessibilityLabel="React logo" /*source={logo}*/ resizeMode="contain" style={styles.logo} />
           <Text style={styles.title}>Welcome to React</Text>
         </View>
         <Text style={styles.code}>
