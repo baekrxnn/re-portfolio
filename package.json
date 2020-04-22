@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "create-react-app": "^1.5.2",
-    "react": "^16.2.0",
+    "react": "^16.13.1",
     "react-dom": "^16.2.0",
     "react-native-web": "^0.5.1"
   },

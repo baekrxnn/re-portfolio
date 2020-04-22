@@ -12,7 +12,7 @@ class App extends Component {
           <Image accessibilityLabel="React logo" source={logo} resizeMode="contain" style={styles.logo} />
           <Text style={styles.title}>Welcome to React</Text>
         </View>
-        <Text style={styles.intro}>
+        <Text style={styles.code}>
           To get started, edit <Text style={styles.code}>src/App/index.js</Text> and save to reload.
         </Text>
       </View>
