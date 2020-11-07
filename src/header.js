@@ -1,9 +1,19 @@
-import Component from 'React'
+import React, {Component} from 'React';
 
 export default class Header extends Component{
-  // const address = this.props
+  // given a list of webaddresses, make them spaced well across a header
+  // webaddresses should be <webLinks />
+  constructor() {
+    super();
+  }
   
   render() {
-    return <a href={address} target='_blank' />
+    let list = this.props
+    let websites = []
+    list.forEach((site) => websites.append(site))
+    
+    // return a header with all the links appended
   }
+
+  
 }
