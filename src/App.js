@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import Sidebar from './sidebar.js';
 // import logo from 'logo.svg';
 // import { Image, StyleSheet, Text, View } from 'react-native';
 

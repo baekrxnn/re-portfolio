@@ -1,9 +1,9 @@
-import React, {Component} from 'React';
+import React, { Component } from 'react';
 
 export default class Sidebar extends Component{
-  constructor(){
-    super();
-  }
+  // constructor(){
+  //   super();
+  // }
   
   render(){
     return (
