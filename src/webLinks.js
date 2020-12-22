@@ -1,13 +1,9 @@
 import React, { Component } from 'react';
 
-export default class Header extends Component{
-  constructor(props){
-    super(props)
-  }
-  // const address = this.props
-  // let address = this.props.address
-  
+export default class Weblink extends Component{
   render() {
-    return <a href={this.props.address} target='_blank' />
+    let address = this.props.address
+    let name = this.props.name
+    return <a href={address} target='_blank'> {name} </a>
   }
 }

@@ -1,4 +1,5 @@
-import React, {Component} from 'React';
+import React, { Component } from 'react';
+import Weblinks from './webLinks.js'
 
 export default class Header extends Component{
   // given a list of webaddresses, make them spaced well across a header
