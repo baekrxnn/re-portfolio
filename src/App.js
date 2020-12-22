@@ -8,12 +8,12 @@ import Sidebar from "./sidebar.js";
 class App extends Component {
   render() {
     return (
-      <div>
-        <div classname="sidebar">
+      <div className="container">
+        <div className="sidebar">
           <Sidebar />
         </div>
         
-        <div>
+        <div className="contents">
           <h1>Karen He</h1>
         </div>
       </div>

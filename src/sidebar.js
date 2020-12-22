@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 import Weblink from './webLinks.js';
 
 export default class Sidebar extends Component{
-  render(){
+  render() {
     // let items = this.props.sidebarItems
     let items = [
-      <Weblink address='https://github.com/baekrxnn' name='Github'/>
-      <Weblink address='https://www.linkedin.com/in/karen18he/' name='Lin'
+      <Weblink address='https://baekrxnn.github.io/Portfolio/portfolio.html' name="Projects"/> ,
+      <Weblink address='https://github.com/baekrxnn' name='Github'/> ,
+      <Weblink address='https://www.linkedin.com/in/karen18he/' name='LinkedIn' /> ,
     ]
     let listItems = []
     items.forEach(link => listItems.push(<li> {link} </li>))
