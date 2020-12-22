@@ -14,8 +14,10 @@ body {
 
 .sidebar a {
   color: white;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .contents {
   color: white;
+  font-family: 'Oswald', sans-serif;
 }
