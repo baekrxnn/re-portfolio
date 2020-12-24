@@ -17,6 +17,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.sidebar a:hover {
+  font-style: italic;
+  font-weight: bold;
+}
+
 .contents {
   color: white;
   font-family: 'Oswald', sans-serif;
