@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./App.css";
-import "./sidebar.css";
 import Sidebar from "./sidebar.js";
 
 // import logo from 'logo.svg';
