@@ -18,11 +18,12 @@ export default class about extends Component{
     
     return(
       <div>
-        <h1> Karen He</h1>
+        <h1 className="name"> Karen He</h1>
         
         <div className="bio">
           <ul>
             <li> First year Computer Science student at University of California Irvine </li>
+            <li> Previous software engineer intern at LaunchDarkly (June - September, 2020) </li>
           </ul>
         </div>
         
