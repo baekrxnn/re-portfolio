@@ -1,0 +1,19 @@
+.sidebar {
+  color: white;
+/*   background-color: salmon; */
+  width: 20%;
+/*   height: 100%; */
+/*   position: absolute; */
+  left: 0;
+}
+
+.sidebar a {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sidebar a:hover {
+  color: #54d0ba;
+  font-style: italic;
+  font-weight: bold;
+}
