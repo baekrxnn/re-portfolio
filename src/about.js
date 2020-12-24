@@ -1,13 +1,37 @@
 import React, { Component } from 'react';
+import "./about.css";
 
 export default class about extends Component{
   render() {
+    let codingTechs = [ // because I expect this list to grow
+      'CSS',
+      'HTML',
+      'JavaScript (React, jQuery)',
+      'Java',
+      'Python',
+    ]
+    
+    let codeItems = []
+    for (let i=0; i<codingTechs.length; i++) {
+      codeItems.push(<li key={i}> {codingTechs[i]} </li>)
+    }
+    
     return(
       <div>
         <h1> Karen He</h1>
         
         <div className="bio">
-          
+          <ul>
+            <li> First year Computer Science student at University of California Irvine </li>
+          </ul>
+        </div>
+        
+        <div className="languages">
+          <h3> Coding languages and libraries: </h3>
+          <ul>
+            {codeItems}
+          </ul>
+        
         </div>
       
       </div>

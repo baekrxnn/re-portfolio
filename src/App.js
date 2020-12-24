@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import "./sidebar.css";
 import Sidebar from "./sidebar.js";
+import AboutMe from "./about.js";
 
 // import logo from 'logo.svg';
 // import { Image, StyleSheet, Text, View } from 'react-native';
@@ -16,6 +17,7 @@ class App extends Component {
         
         <div className="contents">
           <h1>Karen He</h1>
+          <AboutMe />
         </div>
       </div>
     );
