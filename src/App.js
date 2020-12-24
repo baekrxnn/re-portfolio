@@ -14,7 +14,7 @@ class App extends Component {
         <div className="sidebar">
           <Sidebar />
         </div>
-        
+
         <div className="contents">
           <AboutMe />
         </div>

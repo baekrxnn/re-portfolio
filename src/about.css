@@ -7,10 +7,13 @@
 
 .name {
   color: #54d0ba;
-  weight: 400;
+  /*   font-weight: 400; */
 }
 
 .bio li {
   list-style-type: none;
   font-size: 20px;
+  font-family: "Lato", sans-serif;
+  /*   font-weight: 300; */
+  /*   font-style: italic; */
 }
