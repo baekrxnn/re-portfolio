@@ -10,7 +10,7 @@ export default class Sidebar extends Component{
       <Weblink address='https://www.linkedin.com/in/karen18he/' name='LinkedIn' /> ,
     ]
     let listItems = []
-    items.forEach(link => listItems.push(<li> {link} </li>))
+    items.forEach(link => listItems.push(<li className="sidebar-link"> {link} </li>))
     return (
       <ul>
         {listItems}

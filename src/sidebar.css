@@ -1,0 +1,15 @@
+.sidebar {
+  color: white;
+  width: 20%;
+}
+
+.sidebar a {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sidebar a:hover {
+  font-style: italic;
+  font-weight: bold;
+  color: #54d0ba;
+}
