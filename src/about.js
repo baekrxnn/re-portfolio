@@ -6,8 +6,8 @@ export default class about extends Component{
     let codingTechs = [ // because I expect this list to grow
       'CSS',
       'HTML',
-      'JavaScript (React, jQuery)',
       'Java',
+      'JavaScript (React, jQuery)',
       'Python',
     ]
     
