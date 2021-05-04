@@ -1,6 +1,7 @@
 .section {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
+  overflow: auto;
 }
 
 .section a {
@@ -11,4 +12,8 @@
 
 .section a:hover {
   color: white;
+}
+
+.year {
+  color: red;
 }

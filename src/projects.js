@@ -23,9 +23,10 @@ const projects = () => {
   let li = [];
   projectsData.contents.forEach(x => {
     li.push (
-      <div className="section">
-        <p>{x.Year}</p>
-        {crawlProjects(x.Projects)}
+      <div>
+        <p className="year">{x.Year}</p>
+        <div className="section">{crawlProjects(x.Projects)}</div>
+        
       </div>
     );
     // console.log(x.Projects);
