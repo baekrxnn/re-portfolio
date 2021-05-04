@@ -1,6 +1,7 @@
 .sidebar {
   color: white;
   width: 20%;
+  margin-top: 1rem;
 }
 
 .sidebar a {
