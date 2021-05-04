@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 import "./sidebar.css";
+import "./projects.css";
 import Sidebar from "./sidebar.js";
 import AboutMe from "./about.js";
 import Projects from "./projects.js";
@@ -18,7 +19,7 @@ class App extends Component {
 
         <div className="contents">
           <AboutMe />
-          <Projects />
+          <Projects className="projects"/>
         </div>
       </div>
     );

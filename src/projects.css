@@ -1,0 +1,9 @@
+.section a {
+  color: cyan;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.section a:hover {
+  color: white;
+}
