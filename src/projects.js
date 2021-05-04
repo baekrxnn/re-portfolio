@@ -4,7 +4,7 @@ import Weblink from "./webLinks.js";
 
 const crawlProjects = projsArr => {
   let links = [];
-  console.log(projsArr)
+  // console.log(projsArr)
   projsArr.forEach(x =>
     links.push(
       <Weblink
@@ -20,9 +20,10 @@ const crawlProjects = projsArr => {
 
 const projects = () => {
   // console.log(projectsData.contents);
+  let li = [];
   projectsData.contents.forEach(x => {
-    return (
-      <div>
+    li.push (
+      <div className="section">
         <p>{x.Year}</p>
         {crawlProjects(x.Projects)}
       </div>
@@ -31,12 +32,10 @@ const projects = () => {
   });
   // let links = [];
   // projectsData.Projects.forEach(x => links.push(<Weblink address={x.link} name={x.name} key={x.name} className="project-link"/>));
-  let li = projects();
 
   return (
     <div>
-      <p>{projectsData.Year}</p>
-      <div className="section">{li}</div>
+      <div>{li}</div>
     </div>
   );
 };
