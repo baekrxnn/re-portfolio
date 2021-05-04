@@ -48,24 +48,26 @@
       "description": "My first React Project: the \"Reactified\" version of my playlist, with updated songs"
     }
   },
-  
+
   "Year": "2020",
-  "Projects": {
-    "Trivia": {
+  "Projects": [
+    {
+      "name": "Trivia",
       "year": "2020",
       "link": "https://baekrxnn-trivia.glitch.me/",
       "description": "A React based game that tests how much you know about the world!"
     },
-    "2020 Virtual Hackathon": {
+    {
+      "name": "2020 Virtual Hackathon",
       "year": "2020",
       "link": "https://asec-2-5.glitch.me/",
       "description": "A React based project where you must take the necessary steps to flatten the curve!"
     },
-    "Reflex Checker": {
+    {
+      "name": "Reflex Checker",
       "year": "2020",
       "link": "https://baekrxnn-studio-3.glitch.me/",
       "description": "A React based game that tests your reflex to colors and words!"
     }
-  }
-  
+  ]
 }
