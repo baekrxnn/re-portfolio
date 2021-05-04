@@ -1,7 +1,12 @@
+.section {
+  display: flex;
+  justify-content: space-around;
+}
+
 .section a {
   color: cyan;
-  justify-content: center;
   text-decoration: none;
+  text-align: center;
 }
 
 .section a:hover {

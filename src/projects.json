@@ -1,53 +1,62 @@
 {
   "Hello": "hello",
   "Year": "2018-2019",
-  "Projects": {
-    "Fanpage": {
+  "Projects": [
+    {
+      "name": "Fanpage",
       "year": "2018-2019",
       "link": "https://baekrxnn.github.io/fanpage/",
       "description": "A fanpage made of love"
     },
-    "Crack the Safe": {
+    {
+      "name": "Crack the Safe",
       "year": "2018-2019",
       "link": "https://baekrxnn.github.io/crackthesafe/",
       "description": "Guess the password to the safe in the fewest tries possible!"
     },
-    "Tic Tac Toe": {
+    {
+      "name": "Tic Tac Toe",
       "year": "2018-2019",
       "link": "https://baekrxnn.github.io/tictactoe/",
       "description": "The classic game"
     },
-    "Playlist": {
+    {
+      "name": "Playlist",
       "year": "2018-2019",
       "link": "https://baekrxnn.github.io/playlist/",
       "description": "Storing a playlist of some of my favorite songs!"
     },
-    "Choose Your Own Adventure": {
+    {
+      "name": "Choose Your Own Adventure",
       "year": "2018-2019",
       "link": "https://baekrxnn.github.io/ChooseYourOwnAdventure/",
       "description": "A fun first game to help grasp the concepts of JSON"
     },
-    "Giphy": {
+    {
+      "name": "Giphy",
       "year": "2018-2019",
       "link": "https://baekrxnn.github.io/giphy/",
       "description": "Search for GIFs from GIPHY with voice and text search!"
     },
-    "2019 Hackathon!": {
+    {
+      "name": "2019 Hackathon!",
       "year": "2018-2019",
       "link": "https://inexpensive-hub.glitch.me/",
       "description": "Small steps to make lasting environmental impacts"
     },
-    "Dashboard": {
+    {
+      "name": "Dashboard",
       "year": "2018-2019",
       "link": "https://baekrxnn.github.io/client-project/",
       "description": "Leaving your laptop open for a few minutes? Don't worry about your work being seen"
     },
-    "Playlist, but in React": {
+    {
+      "name": "Playlist, but in React",
       "year": "2018-2019",
       "link": "https://re-playlist--baekrxnn.repl.co/",
       "description": "My first React Project: the \"Reactified\" version of my playlist, with updated songs"
     }
-  },
+  ],
 
   "Year": "2020",
   "Projects": [

@@ -11,9 +11,9 @@ const projects = () => {
 
 
   return (
-    <div className="section">
+    <div >
       <p>{projectsData.Year}</p>
-      {links}
+      <div className="section">{links}</div>
     </div>
   );
 };
@@ -22,9 +22,10 @@ export default class Projects extends Component {
   render() {
     return (
       <div>
-        <h3> Projects </h3>
-        <p> in the making OvO,,, </p>
-        {projects()}
+        <h3> --- Projects --- </h3>
+        {/*<p> in the making OvO,,, </p>*/}
+        <div>{projects()}</div>
+        
       </div>
     );
   }
