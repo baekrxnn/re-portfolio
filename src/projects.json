@@ -1,82 +1,88 @@
 {
-  "Hello": "hello",
-  "Year": "2018-2019",
-  "Projects": [
+  "contents": [
     {
-      "name": "Fanpage",
-      "year": "2018-2019",
-      "link": "https://baekrxnn.github.io/fanpage/",
-      "description": "A fanpage made of love"
+      "Year": "2018-2019",
+      "Projects": [
+        {
+          "name": "Fanpage",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/fanpage/",
+          "description": "A fanpage made of love"
+        },
+        {
+          "name": "Crack the Safe",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/crackthesafe/",
+          "description": "Guess the password to the safe in the fewest tries possible!"
+        },
+        {
+          "name": "Tic Tac Toe",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/tictactoe/",
+          "description": "The classic game"
+        },
+        {
+          "name": "Playlist",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/playlist/",
+          "description": "Storing a playlist of some of my favorite songs!"
+        },
+        {
+          "name": "Choose Your Own Adventure",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/ChooseYourOwnAdventure/",
+          "description": "A fun first game to help grasp the concepts of JSON"
+        },
+        {
+          "name": "Giphy",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/giphy/",
+          "description": "Search for GIFs from GIPHY with voice and text search!"
+        },
+        {
+          "name": "2019 Hackathon!",
+          "year": "2018-2019",
+          "link": "https://inexpensive-hub.glitch.me/",
+          "description": "Small steps to make lasting environmental impacts"
+        },
+        {
+          "name": "Dashboard",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/client-project/",
+          "description": "Leaving your laptop open for a few minutes? Don't worry about your work being seen"
+        },
+        {
+          "name": "Playlist, but in React",
+          "year": "2018-2019",
+          "link": "https://re-playlist--baekrxnn.repl.co/",
+          "description": "My first React Project: the \"Reactified\" version of my playlist, with updated songs"
+        }
+      ]
     },
-    {
-      "name": "Crack the Safe",
-      "year": "2018-2019",
-      "link": "https://baekrxnn.github.io/crackthesafe/",
-      "description": "Guess the password to the safe in the fewest tries possible!"
-    },
-    {
-      "name": "Tic Tac Toe",
-      "year": "2018-2019",
-      "link": "https://baekrxnn.github.io/tictactoe/",
-      "description": "The classic game"
-    },
-    {
-      "name": "Playlist",
-      "year": "2018-2019",
-      "link": "https://baekrxnn.github.io/playlist/",
-      "description": "Storing a playlist of some of my favorite songs!"
-    },
-    {
-      "name": "Choose Your Own Adventure",
-      "year": "2018-2019",
-      "link": "https://baekrxnn.github.io/ChooseYourOwnAdventure/",
-      "description": "A fun first game to help grasp the concepts of JSON"
-    },
-    {
-      "name": "Giphy",
-      "year": "2018-2019",
-      "link": "https://baekrxnn.github.io/giphy/",
-      "description": "Search for GIFs from GIPHY with voice and text search!"
-    },
-    {
-      "name": "2019 Hackathon!",
-      "year": "2018-2019",
-      "link": "https://inexpensive-hub.glitch.me/",
-      "description": "Small steps to make lasting environmental impacts"
-    },
-    {
-      "name": "Dashboard",
-      "year": "2018-2019",
-      "link": "https://baekrxnn.github.io/client-project/",
-      "description": "Leaving your laptop open for a few minutes? Don't worry about your work being seen"
-    },
-    {
-      "name": "Playlist, but in React",
-      "year": "2018-2019",
-      "link": "https://re-playlist--baekrxnn.repl.co/",
-      "description": "My first React Project: the \"Reactified\" version of my playlist, with updated songs"
-    }
-  ],
 
-  "Year": "2020",
-  "Projects": [
     {
-      "name": "Trivia",
-      "year": "2020",
-      "link": "https://baekrxnn-trivia.glitch.me/",
-      "description": "A React based game that tests how much you know about the world!"
-    },
-    {
-      "name": "2020 Virtual Hackathon",
-      "year": "2020",
-      "link": "https://asec-2-5.glitch.me/",
-      "description": "A React based project where you must take the necessary steps to flatten the curve!"
-    },
-    {
-      "name": "Reflex Checker",
-      "year": "2020",
-      "link": "https://baekrxnn-studio-3.glitch.me/",
-      "description": "A React based game that tests your reflex to colors and words!"
+      "Year": "2020",
+      "Projects": [
+        {
+          "name": "Trivia",
+          "year": "2020",
+          "link": "https://baekrxnn-trivia.glitch.me/",
+          "description": "A React based game that tests how much you know about the world!"
+        },
+        {
+          "name": "2020 Virtual Hackathon",
+          "year": "2020",
+          "link": "https://asec-2-5.glitch.me/",
+          "description": "A React based project where you must take the necessary steps to flatten the curve!"
+        },
+        {
+          "name": "Reflex Checker",
+          "year": "2020",
+          "link": "https://baekrxnn-studio-3.glitch.me/",
+          "description": "A React based game that tests your reflex to colors and words!"
+        }
+      ]
     }
+    
   ]
 }
