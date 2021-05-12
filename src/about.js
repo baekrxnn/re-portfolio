@@ -30,7 +30,7 @@ export default class about extends Component {
         </div>
 
         <div className="languages">
-          <h2> --- Coding languages and libraries --- </h2>
+          <h2> Coding languages and libraries</h2>
           <ul>{codeItems}</ul>
         </div>
       </div>
