@@ -5,7 +5,7 @@ export default class Sidebar extends Component{
   render() {
     // let items = this.props.sidebarItems
     let items = [
-      <Weblink address='https://baekrxnn.github.io/Portfolio/portfolio.html' name="Projects"/> ,
+      <Weblink address='re-portfolio.glitch.me#ProjectsSection' name="Projects"/> ,
       <Weblink address='https://github.com/baekrxnn' name='Github'/> ,
       <Weblink address='https://www.linkedin.com/in/karen18he/' name='LinkedIn' /> ,
     ]

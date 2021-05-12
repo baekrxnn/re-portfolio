@@ -46,7 +46,7 @@ export default class Projects extends Component {
   render() {
     return (
       <div>
-        <h2> Projects </h2>
+        <h2 id="ProjectsSection"> Projects </h2>
         {/*<p> in the making OvO,,, </p>*/}
         <div>{projects()}</div>
       </div>
