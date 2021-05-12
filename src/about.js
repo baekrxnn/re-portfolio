@@ -18,7 +18,7 @@ export default class about extends Component {
     }
 
     return (
-      <div>
+      <div className="AboutMeSection">
         <h1 className="name"> Karen He</h1>
 
         <div className="bio">
