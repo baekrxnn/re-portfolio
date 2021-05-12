@@ -1,7 +1,7 @@
 {
   "contents": [
     {
-      "Year": "2018-2019",
+      "Year": "2018",
       "Projects": [
         {
           "name": "Fanpage",
@@ -20,7 +20,13 @@
           "year": "2018-2019",
           "link": "https://baekrxnn.github.io/tictactoe/",
           "description": "The classic game"
-        },
+        }
+      ]
+    },
+    
+    {
+      "Year": "2019",
+      "Projects": [
         {
           "name": "Playlist",
           "year": "2018-2019",

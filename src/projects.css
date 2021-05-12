@@ -1,7 +1,9 @@
 .section {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   overflow: auto;
+  border-bottom: dashed 2px #56549E;
+  padding-bottom: 1rem;
 }
 
 .section a {
@@ -17,4 +19,6 @@
 
 .year {
   color: #54ACF6;
+  text-align: center;
+  margin-top: 2rem;
 }
