@@ -12,3 +12,7 @@ body {
   width: 80%;
   margin: 0 2rem 0 2rem;
 }
+
+.sidebar {
+  background-color: #56549e;
+}
