@@ -3,6 +3,7 @@
   display: inline;
   margin-left: 1rem;
   margin-right: 1rem;
+/*   color: black; */
 }
 
 .name {
@@ -14,7 +15,7 @@
 .bio li {
   list-style-type: none;
   font-size: 20px;
-  color: #FF
+  color: #FF9E9E;
 /*   font-family: "Lato", sans-serif; */
   /*   font-weight: 300; */
   /*   font-style: italic; */
@@ -23,3 +24,4 @@
 li {
   font-family: "Lato", sans-serif;
 }
+

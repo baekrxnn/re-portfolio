@@ -1,5 +1,6 @@
 body {
-  background-color: #105a92;
+/*   background-color: #105a92; */
+  background-color: #252A48;
 }
 
 .container {
@@ -14,5 +15,10 @@ body {
 }
 
 .sidebar {
-  background-color: #56549e;
+/*   background-color: #56549e; */
+/*   background-color: salmon; */
+}
+
+h3 {
+  color: #72CEC1
 }

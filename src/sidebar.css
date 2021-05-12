@@ -12,7 +12,8 @@
 .sidebar a:hover {
   font-style: italic;
   font-weight: bold;
-  color: #54d0ba;
+/*   color: #54d0ba; */
+  color: #E45D68;
 }
 
 .sidebar-link {

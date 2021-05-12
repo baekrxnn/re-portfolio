@@ -5,7 +5,8 @@
 }
 
 .section a {
-  color: black;
+/*   color: black; */
+  color: white;
   text-decoration: none;
   text-align: center;
 }
@@ -15,5 +16,5 @@
 }
 
 .year {
-  color: #ffffff;
+  color: #54ACF6;
 }
