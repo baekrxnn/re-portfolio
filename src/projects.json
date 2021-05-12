@@ -82,6 +82,18 @@
           "description": "A React based game that tests your reflex to colors and words!"
         }
       ]
+    },
+    
+    {
+      "Year": "2021",
+      "Projects": [
+        {
+          "name": "Flashcards",
+          "year": "2021",
+          "link": "https://github.com/baekrxnn/Flashcards",
+          "description": "An iOS app that allows users to create a deck of flashcards!"
+        }
+      ]
     }
     
   ]
