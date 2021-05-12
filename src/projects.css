@@ -3,7 +3,7 @@
   justify-content: space-around;
   overflow: auto;
   border-bottom: dashed 2px #56549E;
-  padding-bottom: 1rem;
+/*   padding-bottom: 1rem; */
 }
 
 .section a {
@@ -25,12 +25,13 @@
 
 .section p {
 /*   display: none; */
-  color: darkslategray;
+/*   color: darkslategray; */
+  color: #252A48;
 }
 
 .section p:hover {
 /*   display: contents; */
 /*   color: darkslategray; */
 /*   margin-top: 0px; */
-  
+  COLOR: #b1b1b1;
 }

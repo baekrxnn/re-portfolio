@@ -1,25 +1,37 @@
 {
   "contents": [
     {
-      "Year": "2018",
+      "Year": "2021",
       "Projects": [
         {
-          "name": "Fanpage",
-          "year": "2018-2019",
-          "link": "https://baekrxnn.github.io/fanpage/",
-          "description": "A fanpage made of love"
+          "name": "Flashcards",
+          "year": "2021",
+          "link": "https://github.com/baekrxnn/Flashcards",
+          "description": "An iOS app that allows users to create a deck of flashcards!"
+        }
+      ]
+    },
+    
+    {
+      "Year": "2020",
+      "Projects": [
+        {
+          "name": "Trivia",
+          "year": "2020",
+          "link": "https://baekrxnn-trivia.glitch.me/",
+          "description": "A React based game that tests how much you know about the world!"
         },
         {
-          "name": "Crack the Safe",
-          "year": "2018-2019",
-          "link": "https://baekrxnn.github.io/crackthesafe/",
-          "description": "Guess the password to the safe in the fewest tries possible!"
+          "name": "2020 Virtual Hackathon",
+          "year": "2020",
+          "link": "https://asec-2-5.glitch.me/",
+          "description": "A React based project where you must take the necessary steps to flatten the curve!"
         },
         {
-          "name": "Tic Tac Toe",
-          "year": "2018-2019",
-          "link": "https://baekrxnn.github.io/tictactoe/",
-          "description": "The classic game"
+          "name": "Reflex Checker",
+          "year": "2020",
+          "link": "https://baekrxnn-studio-3.glitch.me/",
+          "description": "A React based game that tests your reflex to colors and words!"
         }
       ]
     },
@@ -65,42 +77,31 @@
         }
       ]
     },
-
-    {
-      "Year": "2020",
-      "Projects": [
-        {
-          "name": "Trivia",
-          "year": "2020",
-          "link": "https://baekrxnn-trivia.glitch.me/",
-          "description": "A React based game that tests how much you know about the world!"
-        },
-        {
-          "name": "2020 Virtual Hackathon",
-          "year": "2020",
-          "link": "https://asec-2-5.glitch.me/",
-          "description": "A React based project where you must take the necessary steps to flatten the curve!"
-        },
-        {
-          "name": "Reflex Checker",
-          "year": "2020",
-          "link": "https://baekrxnn-studio-3.glitch.me/",
-          "description": "A React based game that tests your reflex to colors and words!"
-        }
-      ]
-    },
     
     {
-      "Year": "2021",
+      "Year": "2018",
       "Projects": [
         {
-          "name": "Flashcards",
-          "year": "2021",
-          "link": "https://github.com/baekrxnn/Flashcards",
-          "description": "An iOS app that allows users to create a deck of flashcards!"
+          "name": "Fanpage",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/fanpage/",
+          "description": "A fanpage made of love"
+        },
+        {
+          "name": "Crack the Safe",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/crackthesafe/",
+          "description": "Guess the password to the safe in the fewest tries possible!"
+        },
+        {
+          "name": "Tic Tac Toe",
+          "year": "2018-2019",
+          "link": "https://baekrxnn.github.io/tictactoe/",
+          "description": "The classic game"
         }
       ]
     }
+    
     
   ]
 }

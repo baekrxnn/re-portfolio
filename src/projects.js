@@ -25,7 +25,7 @@ const projects = () => {
   projectsData.contents.forEach(x => {
     li.push (
       <div>
-        <p className="year">{x.Year}</p>
+        <h3 className="year">{x.Year}</h3>
         <div className="section">{crawlProjects(x.Projects)}</div>
         
       </div>
@@ -46,7 +46,7 @@ export default class Projects extends Component {
   render() {
     return (
       <div>
-        <h3> --- Projects --- </h3>
+        <h2> --- Projects --- </h2>
         {/*<p> in the making OvO,,, </p>*/}
         <div>{projects()}</div>
       </div>
