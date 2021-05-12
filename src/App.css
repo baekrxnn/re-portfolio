@@ -24,3 +24,7 @@ body {
 h2 { /* these are usually the section headers */
   color: #72CEC1
 }
+
+.aboutMe {
+  margin-bottom: 5rem; 
+}
