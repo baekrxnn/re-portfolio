@@ -12,6 +12,7 @@ const crawlProjects = projsArr => {
         name={x.name}
         key={x.name}
         className="project-link"
+        description={x.description}
       />
     )
   );

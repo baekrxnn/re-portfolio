@@ -7,7 +7,7 @@
 }
 
 .section a {
-/*   color: black; */
+  /*   color: black; */
   color: white;
   text-decoration: none;
   text-align: center;
@@ -21,4 +21,16 @@
   color: #54ACF6;
   text-align: center;
   margin-top: 2rem;
+}
+
+.section p {
+/*   display: none; */
+  color: darkslategray;
+}
+
+.section p:hover {
+/*   display: contents; */
+/*   color: darkslategray; */
+/*   margin-top: 0px; */
+  
 }

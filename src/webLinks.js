@@ -4,6 +4,7 @@ export default class Weblink extends Component{
   render() {
     let address = this.props.address
     let name = this.props.name
-    return <a href={address} target='_blank'> {name} </a>
+    let description = this.props.description; // this is optional
+    return <a href={address} target='_blank'> {name} <p>{description}</p> </a>
   }
 }
