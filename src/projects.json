@@ -8,6 +8,12 @@
           "year": "2021",
           "link": "https://github.com/baekrxnn/Flashcards",
           "description": "An iOS app that allows users to create a deck of flashcards!"
+        },
+        {
+          "name": "This portfolio!",
+          "year": "2021",
+          "link": "",
+          "description": "Fun fact: you're looking at it right now! My portfolio, but refactored into React"
         }
       ]
     },
