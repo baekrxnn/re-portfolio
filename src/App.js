@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import "./App.css";
-import "./sidebar.css";
-import "./projects.css";
+import "./style/App.css";
+import "./style/sidebar.css";
+import "./style/projects.css";
 import Sidebar from "./sidebar.js";
 import AboutMe from "./about.js";
 import Projects from "./projects.js";

@@ -32,8 +32,6 @@ const projects = () => {
     );
     // console.log(x.Projects);
   });
-  // let links = [];
-  // projectsData.Projects.forEach(x => links.push(<Weblink address={x.link} name={x.name} key={x.name} className="project-link"/>));
 
   return (
     <div>
@@ -47,7 +45,6 @@ export default class Projects extends Component {
     return (
       <div>
         <h2 id="ProjectsSection"> Projects </h2>
-        {/*<p> in the making OvO,,, </p>*/}
         <div>{projects()}</div>
       </div>
     );
