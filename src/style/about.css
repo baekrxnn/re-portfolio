@@ -10,13 +10,13 @@
 /*   color: #54d0ba; */
   color: #ACD1FD;
   font-size: 60px;
-    font-weight: 400;
+  font-weight: 400;
   margin-bottom: 0;
 }
 
 .bio li {
 /*   list-style-type: '-'; */
-   list-style-type: "\2728"; /* the sparkles emoji */ 
+  list-style-type: "\2728"; /* the sparkles emoji */ 
   font-size: 20px;
   color: #FF9E9E;
 /*   font-family: "Lato", sans-serif; */

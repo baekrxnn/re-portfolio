@@ -23,10 +23,9 @@ export default class about extends Component {
 
         <div className="bio">
           <ul>
-            <li> First year Computer Science student at University of California Irvine </li>
-            <li> Previous software engineer intern at LaunchDarkly (June - September, 2020) </li>
+            <li> Second year Computer Science student at University of California Irvine </li>
             <li> Code Nation Alumni, and member of the Code Nation Alumni Council (2021)</li>
-            <li> Google Computer Science Summer Institute participant (July, 2020) </li>
+            <li> Previous software engineer intern at LaunchDarkly (June - September, 2020) </li>
           </ul>
         </div>
 
