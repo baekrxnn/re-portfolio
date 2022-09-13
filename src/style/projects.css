@@ -8,7 +8,7 @@
 
 .section a {
   /*   color: black; */
-  color: white;
+  color: var(--p2-text);
   font-family: "Lato", sans-serif;
   font-weight: bold;
   text-decoration: none;
@@ -16,26 +16,26 @@
 }
 
 .section a:hover {
-  color: #FF9E9E;
+  color: var(--p1-text);
 }
 
 .year {
-  color: #54ACF6;
+  color: var(--highlight);
   text-align: center;
   margin-top: 2rem;
   font-weight: bold;
 }
 
 .section p {
-/*   display: none; */
-/*   color: darkslategray; */
-  color: #252A48;
+  /* display: none; */
+  color: var(--background);
+  /* visibility: hidden; */
+  /* color: #b1b1b1; */
   font-weight: initial;
 }
 
 .section p:hover {
-/*   display: contents; */
-/*   color: darkslategray; */
-/*   margin-top: 0px; */
-  COLOR: #b1b1b1;
+  /* display: contents; */
+/* visibility: visible; */
+  COLOR: var(--p3-text);
 }

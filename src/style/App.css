@@ -1,6 +1,22 @@
+:root {
+  /* background color */
+  /* --background-old: #252A48; */
+  --background: #0d2149;
+  --sidebar-background-old: #21222D;
+  --sidebar-background: #208aae;
+
+  /* text color */
+  --section-header: #72CEC1;
+  --p1-text: #FF9E9E;
+  --p2-text: white;
+  /* --p2-text-alt: #f9ebe0; */ /* slightly warmer white */
+  --p3-text: #b1b1b1;
+  --highlight: #54ACF6;
+}
+
 body {
 /*   background-color: #105a92; */
-  background-color: #252A48;
+  background-color: var(--background);
   height: 100%;
 }
 
@@ -17,6 +33,6 @@ body {
 }
 
 h2 { /* these are usually the section headers */
-  color: #72CEC1;
+  color: var(--section-header);
   margin-top: 3rem;
 }
