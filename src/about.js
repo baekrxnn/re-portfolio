@@ -8,7 +8,7 @@ export default class about extends Component {
       "CSS",
       "HTML",
       "Java",
-      "JavaScript (React, jQuery)",
+      "JavaScript (React, Vue, jQuery)",
       "Python"
     ];
 
